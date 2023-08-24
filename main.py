@@ -1,6 +1,6 @@
 def main():
-    males = int(input("Enter the number of males in the class: "))
-    females = int(input("Enter the number of females in the class: "))
+    males = (int(input("Enter the number of males in the class: ")))
+    females = (int(input("Enter the number of females in the class: ")))
     total = males + females
     m_perc = males / 1
     f_perc = females / 1.0
